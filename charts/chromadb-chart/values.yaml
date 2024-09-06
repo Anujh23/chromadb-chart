@@ -94,7 +94,7 @@ startupProbe:
   initialDelaySeconds: 10
 
 chromadb:
-  apiVersion: "0.5.5"
+  apiVersion: "0.4.24"
   allowReset: false
   isPersistent: true
   persistDirectory: /index_data
